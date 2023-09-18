@@ -1,0 +1,14 @@
+body
+{
+background-image: url(background1.jpg);
+text-align: center; 
+}
+button{
+    background-color: aquamarine;
+    border-radius: 30px;
+    padding: 5px 10px;
+    margin: 20px;
+}
+h1{
+    color: aquamarine;
+}
